@@ -14,8 +14,8 @@ const fontSans = FontSans({
   variable: "--font-sans",
 });
 export const metadata: Metadata = {
-  title: "Magic UI",
-  description: "The startup template from Magic UI",
+  title: "La Khobz Marocaine - Boulangerie Artisanale",
+  description: "La Khobz Marocaine - Boulangerie Artisanale",
 };
 
 export default function RootLayout({
