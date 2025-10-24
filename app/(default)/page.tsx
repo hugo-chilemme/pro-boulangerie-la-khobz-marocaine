@@ -62,7 +62,7 @@ export default function Page() {
 								<Image src="https://tasteofmaroc.com/wp-content/uploads/2017/08/khobz-picturepartners-bigstock-Moroccan-bread-and-tagine-on-t-65143975.jpg.webp" alt="" className="block size-full object-cover" width={500} height={500} />
 							</div>
 							<div className="-mt-8 aspect-square overflow-hidden rounded-xl shadow-xl outline-1 -outline-offset-1 outline-black/10 lg:-mt-40">
-								<Image src="https://cuisine.nessma.tv/uploads/7/2020-03/a25eb93ce08249a6a2a00ed5c614b0d5.png" alt="" className="block size-full object-cover" width={500} height={500} />
+								<Image src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR2tW3f2iGtKD7Lu-W-0wMVePuoaZypcGb0eVvlB8PkzJW73z_qVGALGWvu9avwKRmpnHwsG8N9UxJGBTmdxD14s5LFJiftztBxVwDDiU8o" alt="" className="block size-full object-cover" width={500} height={500} />
 							</div>
 							<div className="aspect-square overflow-hidden rounded-xl shadow-xl outline-1 -outline-offset-1 outline-black/10">
 								<Image src="https://www.recettesvegetales.com/wp-content/uploads/2015/10/ghiba-aux-amandes.jpg" alt="" className="block size-full object-cover" width={500} height={500} />
