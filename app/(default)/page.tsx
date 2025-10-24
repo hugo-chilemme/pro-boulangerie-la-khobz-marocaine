@@ -40,7 +40,6 @@ export default function Page() {
 			<div className="mx-auto max-w-2xl px-6 lg:max-w-7xl lg:px-8">
 				<div className="max-w-4xl">
 					<h1 className="mt-2 text-4xl font-semibold tracking-tight text-pretty text-gray-900 sm:text-5xl">Nos spécialités</h1>
-					<p className="mt-6 text-xl/8 text-balance text-gray-700">Aliquet nec orci mattis amet quisque ullamcorper neque, nibh sem. At arcu, sit dui mi, nibh dui, diam eget aliquam. Quisque id at vitae feugiat egestas.</p>
 				</div>
 				<section className="mt-20 grid grid-cols-1 lg:grid-cols-2 lg:gap-x-8 lg:gap-y-16">
 					<div className="lg:pr-8">
