@@ -1,0 +1,63 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --background: #faf3ea;
+    --foreground: #1d1d1d;
+    --card: #fff9e5;
+    --card-foreground: #4a4a4a;
+    --primary: #ecd797;
+    --primary-foreground: #1d1d1d;
+    --secondary: #b26c4c;
+    --secondary-foreground: #fffaf0;
+    --muted: #f4e4cc;
+    --muted-foreground: #74412e;
+    --accent: #90aa59;
+    --accent-foreground: #1d1d1d;
+    --border: #edd5ad;
+    --input: #faf3ea;
+    --ring: #ffbf00;
+  }
+
+  body {
+    background-color: var(--background);
+    color: var(--foreground);
+    font-family: system-ui, -apple-system, sans-serif;
+  }
+
+  h1, h2, h3, h4 {
+    font-family: var(--font-title, serif);
+    color: #74412e;
+  }
+
+  button {
+    border-radius: 0.5rem;
+    background-color: var(--primary);
+    color: var(--primary-foreground);
+    padding: 0.5rem 1rem;
+    font-weight: 500;
+    box-shadow: 0 1px 3px 0 rgb(0 0 0 / 0.1);
+    transition: background-color 0.15s;
+  }
+
+  button:hover {
+    background-color: #d4a000;
+  }
+
+  a {
+    color: #74412e;
+    transition: color 0.15s;
+  }
+
+  a:hover {
+    color: #d4a000;
+  }
+
+  .card {
+    background-color: var(--card);
+    color: var(--card-foreground);
+    padding: 1.5rem;
+    border-radius: 1rem;
+    box-shadow: 0 1px 3px 0 rgb(0 0 0 / 0.1);
+  }
+}
