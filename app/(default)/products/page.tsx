@@ -21,7 +21,7 @@ const products = [
     title: 'Msemen',
     description: 'Crêpe feuilletée marocaine traditionnelle, parfaite pour le petit-déjeuner ou le goûter.',
     date: '2024-01-15',
-    image: 'https://images.unsplash.com/photo-1555507036-ab1f4038808a?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80'
+    image: 'https://tasteofmaroc.com/wp-content/uploads/2017/09/msemen-picturepartners-bigstock.jpg.webp'
   },
   {
     id: 4,
